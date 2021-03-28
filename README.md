@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Test Helper extension to Spock Framework.
 <!--
 **kmucha555/kmucha555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
